@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Which Road",
+"dataUrl": "WhichRoad4Web_Beta.data.unityweb",
+"wasmCodeUrl": "WhichRoad4Web_Beta.wasm.code.unityweb",
+"wasmFrameworkUrl": "WhichRoad4Web_Beta.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
